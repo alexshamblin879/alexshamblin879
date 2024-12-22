@@ -6,7 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexshamblin879&layout=compact&langs_count=6&hide=html,css&theme=merko&custom_title=Top%20Languages)](https://github.com/alexshamblin879)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=alexshamblin879&theme=nord&title=Commit,Followers,Repositories,PullRequest)](https://github.com/alexshamblin879)
 
-Welcome to my GitHub profile! I'm Alexandra, a passionate developer based in Tucson, AZ. I love photography, making music, video games, and spending time with friends and family. On GitHub, I focus on personal projects and enjoy using Jupyter Notebook for my coding projects. While still exploring my skills and experiences, I am excited to share my work and journey with the GitHub community.
+Welcome to my GitHub profile! I'm Alexandra, a passionate Data Scientist based in Tucson, AZ. I love photography, making music, video games, and spending time with friends and family. On GitHub, I focus on personal projects and enjoy using Jupyter Notebook for my coding projects. While still exploring my skills and experiences, I am excited to share my work and journey with the GitHub community.
 
 ## Skills and Expertise
 
