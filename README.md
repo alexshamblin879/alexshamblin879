@@ -27,18 +27,8 @@ const alexandra = {
 ```
 
 ## My Projects
-
-### [MookyMook0420](https://github.com/alexshamblin879/MookyMook0420)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexshamblin879&repo=MookyMook0420&theme=merko)](https://github.com/alexshamblin879/MookyMook0420)
-
-MookyMook0420 is my most starred repository where I explore various configurations and customization options for GitHub profile READMEs. Feel free to check it out and find inspiration for your own README!
-
 ### [Alex-Shamblin](https://github.com/alexshamblin879/Alex-Shamblin)
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=alexshamblin879&repo=Alex-Shamblin&theme=merko)](https://github.com/alexshamblin879/Alex-Shamblin) 
-
-This repository is where I host my personal projects, primarily written in Jupyter Notebook. It showcases my experiments, data analysis, and coding skills. I enjoy using Jupyter Notebook for its versatility and interactivity in exploring different domains.
+Alex-Shamblin is my most starred repository where I explore various configurations and customization options for GitHub profile READMEs. Feel free to check it out and find inspiration for your own README!
 
 ## Contact Information
 
